@@ -10,7 +10,8 @@ export default function HomePage() {
         <p className='pb-3'>
             Only the best game in the world.
         </p>
-        <div className="bg-white border rounded shadow w-80 hover:shadow-xl sm:w-full">
+        <div className="bg-white border rounded shadow w-80 
+                        hover:shadow-xl sm:w-full">
                 <Link href="/reviews/stardew-valley"
                 className='flex flex-col sm:flex-row'>
                 <img src="/images/stardew-valley.jpg" alt="stardew-valley"
